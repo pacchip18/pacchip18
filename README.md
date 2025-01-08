@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashanth
-- 👀 I’m interested in Data science, Artificial intelligence, Devops, cloud.
-- 🌱 I’m currently learning Data science...
-- 💞️ I’m looking to collaborate on Data science projects
+- 👀 I’m interested in Big data analytics, Data science, Artificial intelligence, cloud.
+- 🌱 I’m working as Data Engineer @Emids Technologies...
+- 💞️ I’m looking to collaborate on Big Data projects.
 - 📫 Reach me at pacchip18@gmail.com
 
 <!---
